@@ -1,0 +1,15 @@
+{
+  "name": "Property Care App",
+  "short_name": "PropertyApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1040/1040993.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
